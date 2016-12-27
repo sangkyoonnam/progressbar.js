@@ -1,5 +1,5 @@
 {
-  "name": "progressbar.js",
+  "name": "progressbar",
   "main": "dist/progressbar.js",
   "homepage": "https://github.com/kimmobrunfeldt/progressbar.js",
   "authors": [
